@@ -1,1 +1,1 @@
-# mg_classification
+# mg_classification#!pip install pyradiomics
